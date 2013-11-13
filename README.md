@@ -3,7 +3,8 @@ Shell Finder
 
 Python command line utility which lets you look for shells on a site that the hacker must have uploaded. It considers all the shells available and tries all possibilities via dictionary match.							
 								
-**Releases** :  No releases yet. Currently under development.                                    			
+##Releases
+[Shell Finder V1.0](https://github.com/bhavyanshu/Shell-Finder/releases/tag/v1.0)					
 
 
 ##LICENSE
