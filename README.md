@@ -24,6 +24,14 @@ permissions and limitations under the License.
 
 ##USAGE
 
+###Windows
+
+1. Download & install (Any one of the below). Don't forget to add it to your path after installation. Example: Enter in Command prompt PATH=C:\Python27			
+[Python 2.7.5 MSI file - 32 Bit ](http://www.python.org/ftp/python/2.7.5/python-2.7.5.msi)					
+[Python 2.7.5 AMD64 MSI File - 64 Bit ](http://www.python.org/ftp/python/2.7.5/python-2.7.5.amd64.msi)				
+
+2. Go to the project directory of this and type in DOS *python shellfind.py* and then it will ask you to enter URL that needs to be scanned. That's it.				
+
 ###Linux
 
 1. Download the project or clone it. You need Python to run this.								
