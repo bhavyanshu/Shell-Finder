@@ -29,4 +29,6 @@ permissions and limitations under the License.
 1. Download the project or clone it. You need Python to run this.								
 2. Just type in terminal *python shellfind.py* and then it will ask you to enter URL that needs to be scanned. That's it.				
 					
+##Contribute
+Please contribute to the dictionary file for this project. Thanks. More the keywords, the better the chance of finding shells.
 If any issues, then feel free to let me know via the issues page of github.

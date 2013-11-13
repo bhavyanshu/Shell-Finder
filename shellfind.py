@@ -59,7 +59,6 @@ def main():
 		New_URL = website_url+"/"+keys
 		print wait+">>>> "+New_URL
 		req=Request(New_URL)
-		#t.sleep(1)
 		try:
 			response = urlopen(req)
 		except URLError, e:
