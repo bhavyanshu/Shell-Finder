@@ -30,7 +30,7 @@ def OpenLog(log_file_name):
 
 def main():
 	socket.setdefaulttimeout(10)
-	print wait+"\n## ------ Welcome to Shell Finder Utility - Developed by Bhavyanshu Parasher (http://bhavyanshu.github.io) | Apache License V2.0 | Project Source () ------ ##"
+	print wait+"\n## ------ Welcome to Shell Finder Utility - Developed by Bhavyanshu Parasher (http://bhavyanshu.github.io) | Apache License V2.0 | Project Source (https://github.com/bhavyanshu/Shell-Finder) ------ ##"
 	website_url = raw_input("\n\nEnter URL to scan ([eg, http://sitename.com or https://sitename.com/subdir ] | Do not add slash at the end of URL) : ")
 	parse_url=urlparse(website_url)
 	log_file_name = "LOG/"+parse_url.netloc+".log"
